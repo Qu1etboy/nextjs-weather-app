@@ -1,6 +1,6 @@
 # Weather App
 แอพที่สามารถดูสภาพอากาศได้ทั่วโลก
-
+👉 https://weather.qu1etboy.vercel.app/
 ## Stack
 - NextJS
 - Tailwind CSS
@@ -10,7 +10,7 @@
 
 ## Reference
 Patiphan Phengpao
-- https://youtu.be/7fi9H0Qjrqs
+👉 https://youtu.be/7fi9H0Qjrqs
 
 ## Getting Started
 
